@@ -1,0 +1,56 @@
+{
+  "app": {
+    "title": "OTP Authenticator"
+  },
+  "newCode": "New code",
+  "new": {
+    "fromScratch": "From scratch",
+    "fromUri": "From otpauth:// URI",
+    "fromQR": "Scan QR code"
+  },
+  "editor": {
+    "title": "Code Editor",
+    "name": "Label",
+    "account": "Account",
+    "secret": "OTP Secret",
+    "duration": "Time interval",
+    "length": "Code length",
+    "algo": "Algorithm",
+    "color": "Color",
+    "googleCompat": "Google Authenticator compatibility",
+    "googleCompatDesc": "Enables support for Google Authenticator codes. If you don't know what this does, keep this enabled",
+    "done": "Done"
+  },
+  "errors": {
+    "empty": "You must fill this field",
+    "nan": "You must enter a valid integer",
+    "negative": "You must enter a valid positive integer"
+  },
+  "unselect": "Unselect",
+  "edit": "Edit",
+  "delete": "Delete",
+  "copied": {
+    "code": "Code copied",
+    "uri": "URI copied"
+  },
+  "uri": {
+    "notValid": "This is not a valid URI",
+    "notAUri": "This is not a URI"
+  },
+  "scanner": {
+    "title": "QR Code Scanner",
+    "error": "Scanner error"
+  },
+  "share": {
+    "title": "Share code",
+    "copyUri": "Copy URI",
+    "qrInfo": "Tap the QR code to convert it to black and white, if the application you're using has trouble scanning colored QR codes."
+  },
+  "list": {
+    "view": {
+      "tooltip": "List view style",
+      "cards": "Cards",
+      "compact": "Compact"
+    }
+  }
+}
